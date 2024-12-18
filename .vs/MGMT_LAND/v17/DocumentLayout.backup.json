@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\expensemgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|solutionrelative:expensemgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|d:\\auca studies\\dot net\\mgmt_land\\mgmt_land\\expensemgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|solutionrelative:expensemgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\plotmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|solutionrelative:plotmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\plotmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|solutionrelative:plotmgmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}|MGMT_LAND.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlotMGMT.cs",
+              "DocumentMoniker": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\PlotMGMT.cs",
+              "RelativeDocumentMoniker": "PlotMGMT.cs",
+              "ToolTip": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\PlotMGMT.cs",
+              "RelativeToolTip": "PlotMGMT.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:46:53.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAEwDsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:12:03.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\MGMT_LAND\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:48:10.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseMGMT.cs",
+              "DocumentMoniker": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\ExpenseMGMT.cs",
+              "RelativeDocumentMoniker": "ExpenseMGMT.cs",
+              "ToolTip": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\ExpenseMGMT.cs",
+              "RelativeToolTip": "ExpenseMGMT.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:04:30.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseMGMT.cs [Design]",
+              "DocumentMoniker": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\ExpenseMGMT.cs",
+              "RelativeDocumentMoniker": "ExpenseMGMT.cs",
+              "ToolTip": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\ExpenseMGMT.cs [Design]",
+              "RelativeToolTip": "ExpenseMGMT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:56:33.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlotMGMT.cs [Design]",
+              "DocumentMoniker": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\PlotMGMT.cs",
+              "RelativeDocumentMoniker": "PlotMGMT.cs",
+              "ToolTip": "D:\\AUCA STUDIES\\Dot Net\\MGMT_LAND\\MGMT_LAND\\PlotMGMT.cs [Design]",
+              "RelativeToolTip": "PlotMGMT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:56:13.633Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGMT_LAND", "MGMT_LAND.csproj", "{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA39619A-F8BE-46E0-9A1A-6D13486BDDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F7B03D-E144-43FB-9354-4AEF9B00C0D9}
+	EndGlobalSection
+EndGlobal

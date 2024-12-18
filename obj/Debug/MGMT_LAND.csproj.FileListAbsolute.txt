@@ -1,0 +1,24 @@
+C:\Users\lenovo\source\repos\MGMT_LAND\bin\Debug\MGMT_LAND.exe.config
+C:\Users\lenovo\source\repos\MGMT_LAND\bin\Debug\MGMT_LAND.exe
+C:\Users\lenovo\source\repos\MGMT_LAND\bin\Debug\MGMT_LAND.pdb
+C:\Users\lenovo\source\repos\MGMT_LAND\obj\Debug\MGMT_LAND.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\MGMT_LAND\obj\Debug\MGMT_LAND.ExpenseMGMT.resources
+C:\Users\lenovo\source\repos\MGMT_LAND\obj\Debug\MGMT_LAND.Form1.resources
+C:\Users\lenovo\source\repos\MGMT_LAND\obj\Debug\MGMT_LAND.PlotMGMT.resources
+C:\Users\lenovo\source\repos\MGMT_LAND\obj\Debug\MGMT_LAND.Properties.Resources.resources
+C:\Users\lenovo\source\repos\MGMT_LAND\obj\Debug\MGMT_LAND.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\MGMT_LAND\obj\Debug\MGMT_LAND.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\MGMT_LAND\obj\Debug\MGMT_LAND.exe
+C:\Users\lenovo\source\repos\MGMT_LAND\obj\Debug\MGMT_LAND.pdb
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\bin\Debug\MGMT_LAND.exe.config
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\bin\Debug\MGMT_LAND.exe
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\bin\Debug\MGMT_LAND.pdb
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\obj\Debug\MGMT_LAND.csproj.AssemblyReference.cache
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\obj\Debug\MGMT_LAND.ExpenseMGMT.resources
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\obj\Debug\MGMT_LAND.Form1.resources
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\obj\Debug\MGMT_LAND.PlotMGMT.resources
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\obj\Debug\MGMT_LAND.Properties.Resources.resources
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\obj\Debug\MGMT_LAND.csproj.GenerateResource.cache
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\obj\Debug\MGMT_LAND.csproj.CoreCompileInputs.cache
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\obj\Debug\MGMT_LAND.exe
+D:\AUCA STUDIES\Dot Net\MGMT_LAND\MGMT_LAND\obj\Debug\MGMT_LAND.pdb
